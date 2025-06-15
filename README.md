@@ -29,7 +29,7 @@ TradEX is a B2B e-commerce platform that connects Iraqi clients with internation
 
 The Platform Overview Diagram provides a simplified visual representation of the TradEX ecosystem. At its core is the TradEX platform, surrounded by suppliers from the UAE and Turkey, clients from Iraq, and shipment companies acting as a bridge between suppliers and clients. It illustrates the general flow of goods and services from international sources to Iraqi buyers and how TradEX orchestrates all the interactions.
 
-![Platform Overview Diagram](sandbox:/mnt/data/A_flowchart_digital_diagram_illustrates_TradEX,_a_.png)
+![Platform Overview Diagram](TradEx-main-actions.png)
 
 ---
 
@@ -37,7 +37,7 @@ The Platform Overview Diagram provides a simplified visual representation of the
 
 This diagram dives deeper into the operational structure of TradEX. It breaks down each major entity (Suppliers, Clients, Shipment Companies) and shows their internal functions and connections to the platform. For example, it showcases supplier operations like order handling and product listing, and highlights how shipment flows originate in UAE/Turkey and terminate in Iraq. This diagram helps stakeholders understand the specific responsibilities and relationships within the ecosystem.
 
-![Detailed Component Diagram](sandbox:/mnt/data/A_flowchart_diagram_illustrates_TradEX,_a_business.png)
+![Detailed Component Diagram](TradEx-main-components.png)
 
 ---
 
@@ -45,7 +45,7 @@ This diagram dives deeper into the operational structure of TradEX. It breaks do
 
 The Order Sequence Diagram outlines the end-to-end interaction flow between clients, suppliers, shipment companies, and the payment gateway. It begins with the client placing an order, continues through supplier approval and shipment confirmation, and culminates in payment execution and final shipping. This diagram helps clarify the dependencies and approval steps needed before a transaction completes.
 
-![Order Sequence Diagram](sandbox:/mnt/data/A_sequence_diagram_in_the_image_illustrates_the_or.png)
+![Order Sequence Diagram](TradEx-order-sequence.png)
 
 ---
 
@@ -69,7 +69,7 @@ Release Funds
 Settlement
 ```
 
-![Payment Process Flowchart](sandbox:/mnt/data/A_flowchart_in_the_image_depicts_the_payment_proce.png)
+![Payment Process Flowchart](TradEx-payment.png)
 
 ---
 
@@ -142,14 +142,4 @@ Logistics are handled by verified third-party shipment companies that confirm pi
 * Integration with Iraq’s local banking network
 
 ---
-
-For visual diagrams, refer to the linked diagrams:
-
-- ![Platform Overview Diagram](TradEx-main-actions.png)
-
-- ![Detailed Component Diagram](TradEx-main-components.png)
-
-- ![Order Sequence Diagram](TradEx-order-sequence.png)
-
-- ![Payment Process Flowchart](TradEx-payment.png)
 
