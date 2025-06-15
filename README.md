@@ -116,11 +116,11 @@ Logistics are handled by verified third-party shipment companies that confirm pi
 
 For visual diagrams, refer to the linked diagrams:
 
-- ![Platform Overview Diagram](/Users/Ameer/Desktop/TradEx/TradEx-main-actions.png)
+- ![Platform Overview Diagram](TradEx-main-actions.png)
 
-- ![Detailed Component Diagram](/Users/Ameer/Desktop/TradEx/TradEx-main-components.png)
+- ![Detailed Component Diagram](TradEx-main-components.png)
 
-- ![Order Sequence Diagram](/Users/Ameer/Desktop/TradEx/TradEx-order-sequence.png)
+- ![Order Sequence Diagram](TradEx-order-sequence.png)
 
-- ![Payment Process Flowchart](/Users/Ameer/Desktop/TradEx/TradEx-payment.png)
+- ![Payment Process Flowchart](TradEx-payment.png)
 
