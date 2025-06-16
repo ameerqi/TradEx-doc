@@ -1,6 +1,6 @@
-# TradEX Platform Overview
+# TradEx Platform Overview
 
-TradEX is a B2B e-commerce platform that connects Iraqi clients with international suppliers, primarily from UAE and Turkey. It facilitates product discovery, order placement, shipment logistics, and secure payment settlement. The platform streamlines cross-border trade by integrating clients, suppliers, and shipping partners into a unified digital ecosystem.
+TradEx is a B2B e-commerce platform that connects Iraqi clients with international suppliers, primarily from UAE and Turkey. It facilitates product discovery, order placement, shipment logistics, and secure payment settlement. The platform streamlines cross-border trade by integrating clients, suppliers, and shipping partners into a unified digital ecosystem.
 
 ---
 
@@ -11,7 +11,7 @@ TradEX is a B2B e-commerce platform that connects Iraqi clients with internation
 * **Clients (Iraq)**: Search for products, place orders.
 * **Suppliers (UAE & Turkey)**: Manage product listings, process orders.
 * **Shipment Companies**: Handle logistics and confirm goods pickup.
-* **TradEX Platform**: Connects all actors and processes.
+* **TradEx Platform**: Connects all actors and processes.
 * **Payment Gateway (e.g., TapPay)**: Handles payment authorization and fund settlement.
 
 ### Order Sequence:
@@ -27,7 +27,7 @@ TradEX is a B2B e-commerce platform that connects Iraqi clients with internation
 
 ## 📊 Platform Overview Diagram
 
-The Platform Overview Diagram provides a simplified visual representation of the TradEX ecosystem. At its core is the TradEX platform, surrounded by suppliers from the UAE and Turkey, clients from Iraq, and shipment companies acting as a bridge between suppliers and clients. It illustrates the general flow of goods and services from international sources to Iraqi buyers and how TradEX orchestrates all the interactions.
+The Platform Overview Diagram provides a simplified visual representation of the TradEx ecosystem. At its core is the TradEx platform, surrounded by suppliers from the UAE and Turkey, clients from Iraq, and shipment companies acting as a bridge between suppliers and clients. It illustrates the general flow of goods and services from international sources to Iraqi buyers and how TradEx orchestrates all the interactions.
 
 ![Platform Overview Diagram](TradEx-main-actions.png)
 
@@ -35,7 +35,7 @@ The Platform Overview Diagram provides a simplified visual representation of the
 
 ## 🧬 Detailed Component Diagram
 
-This diagram dives deeper into the operational structure of TradEX. It breaks down each major entity (Suppliers, Clients, Shipment Companies) and shows their internal functions and connections to the platform. For example, it showcases supplier operations like order handling and product listing, and highlights how shipment flows originate in UAE/Turkey and terminate in Iraq. This diagram helps stakeholders understand the specific responsibilities and relationships within the ecosystem.
+This diagram dives deeper into the operational structure of TradEx. It breaks down each major entity (Suppliers, Clients, Shipment Companies) and shows their internal functions and connections to the platform. For example, it showcases supplier operations like order handling and product listing, and highlights how shipment flows originate in UAE/Turkey and terminate in Iraq. This diagram helps stakeholders understand the specific responsibilities and relationships within the ecosystem.
 
 ![Detailed Component Diagram](TradEx-main-components.png)
 
@@ -73,9 +73,9 @@ Settlement
 
 ---
 
-## 🧱 TradEX Software Components
+## 🧱 TradEx Software Components
 
-### 1. TradEX Website (Client Portal)
+### 1. TradEx Website (Client Portal)
 
 * Product Search and Discovery
 * Multi-language Support (Arabic/Kurdish/English)
