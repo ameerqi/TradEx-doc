@@ -29,7 +29,7 @@ TradEx is a B2B e-commerce platform that connects Iraqi clients with internation
 
 The Platform Overview Diagram provides a simplified visual representation of the TradEx ecosystem. At its core is the TradEx platform, surrounded by suppliers from the UAE and Turkey, clients from Iraq, and shipment companies acting as a bridge between suppliers and clients. It illustrates the general flow of goods and services from international sources to Iraqi buyers and how TradEx orchestrates all the interactions.
 
-![Platform Overview Diagram](TradEx-main-actions.png)
+![Platform Overview Diagram](Tradex-main-actions.png)
 
 ---
 
